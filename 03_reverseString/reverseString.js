@@ -1,5 +1,5 @@
-const reverseString = function(str) {
-
+const reverseString = function (str) {
+  // commentaire test
 };
 
 // Do not edit below this line
