@@ -1,6 +1,5 @@
-const reverseString = function (str) {
-  // commentaire test
-  // ajout depuis CLI prise 2
+const reverseString = (str) => {
+  return str.split("").reverse().join("");
 };
 
 // Do not edit below this line
